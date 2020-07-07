@@ -572,7 +572,7 @@ body {
 }
 .shopping__description {
   flex: 1;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   margin-top: 0.4rem;
   margin-right: 1.5rem;
 }
@@ -586,7 +586,7 @@ body {
     #fff 40%,
     #fff 100%
   );
-  width: 3.75rem;
+  width: 3.76rem;
   padding-left: 2rem;
   visibility: hidden;
   opacity: 0;
